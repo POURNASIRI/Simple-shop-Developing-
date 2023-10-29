@@ -1,3 +1,6 @@
+
+Hi, this is a simple store website that I want to develop every time to turn this simple website into a professional React js website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
